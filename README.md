@@ -1,14 +1,14 @@
-[Common]
+## [Common]
 - Kite AutoComplete AI Code: Python, Java, Go, PHP, C/C#/C++, Javascript, HTML/CSS, Typescript, React, Ruby, Scala, Kotlin, Bash, Vue, React
 
-[Python]
+## [Python]
 - MagicPython
 - Pylance
 - Python
 - Python Docstring Generator
 - Python Extension Pack
 
-[Laravel / PHP]
+## [Laravel / PHP]
 - Laravel Blade Snippets
 - Laravel Snippets
 - Laravel Blade Spacer
