@@ -18,3 +18,4 @@
 - Laravel goto View
 - DotENV syntax highlighting
 - Laravel Blade formatter
+- php-cs-fixer
