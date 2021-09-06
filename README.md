@@ -17,3 +17,4 @@
 - Laravel goto Controller
 - Laravel goto View
 - DotENV syntax highlighting
+- Laravel Blade formatter
